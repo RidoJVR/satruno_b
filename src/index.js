@@ -6,8 +6,6 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import AboutPage from './pages/AboutPage';
 import BlogPage from './pages/BlogPage';
 import NavBarComponent from './components/NavBarComponent';
-import LogInPage from './pages/LogInPage';
-import SignUpPage from './pages/SignUpPage';
 import PersonajesForm from './pages/PersonajesForm';
 
 
@@ -22,8 +20,6 @@ root.render(
         <Route index path='/home' element={<App />} />
         <Route path='/about' element={<AboutPage />} />
         <Route path='/blog' element={<BlogPage />} />
-        <Route path='/login' element={<LogInPage />} />
-        <Route path='/signup' element={<SignUpPage />} />
         <Route path='/personaje' element={<PersonajesForm/>}/>
       </Routes>
     </BrowserRouter>
