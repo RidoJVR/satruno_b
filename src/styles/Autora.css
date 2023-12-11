@@ -1,0 +1,28 @@
+.aut {
+    height: 400px;
+    width: 100%;
+    background-color: #fff;
+    padding: 20px;
+    text-align: center;
+    margin: 10px;
+  }
+  
+  .aut img {
+    max-width: 20%;
+    align-content: center;
+  }
+  
+  .aut h1 {
+    font-size: 36px;
+  }
+  
+  .aut p {
+    font-size: 24px;
+  }
+  .aut {
+    margin: 10px;
+    text-align: center;
+  }
+  link{
+    color: blueviolet;
+  }

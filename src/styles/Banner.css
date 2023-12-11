@@ -1,0 +1,25 @@
+.banner {
+    height: 400px;
+    width: 100%;
+    background-color: #fff;
+    padding: 20px;
+    text-align: center;
+    margin: 10px;
+  }
+  
+  .banner img {
+    max-width: 20%;
+    align-content: center;
+  }
+  
+  .banner h1 {
+    font-size: 36px;
+  }
+  
+  .banner p {
+    font-size: 30px;
+  }
+  .div {
+    margin: 10px;
+    text-align: center;
+  }

@@ -1,0 +1,28 @@
+.red {
+    height: 400px;
+    width: 100%;
+    background-color: #fff;
+    padding: 20px;
+    text-align: center;
+    margin: 10px;
+  }
+  
+  .red img {
+    max-width: 20%;
+    align-content: center;
+  }
+  
+  .red h1 {
+    font-size: 36px;
+  }
+  .red b{
+    color: blueviolet;
+  }
+  
+  .red p {
+    font-size: 24px;
+  }
+  .red {
+    margin: 10px;
+    text-align: center;
+  }
